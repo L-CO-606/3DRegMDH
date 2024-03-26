@@ -4,8 +4,10 @@
 
 # Dataset
 ### The OASIS Dataset
-This dataset was made available by Andrew Hoopes and Adrian V. Dalca for the following HyperMorph paper.
-If you use this dataset please cite the following and refer to the OASIS Data Use Agreement.
+This dataset has been graciously provided by Andrew Hoopes and Adrian V. Dalca for the HyperMorph paper mentioned below. 
+Available at [https://github.com/adalca/medical-datasets/blob/master/neurite-oasis.md].
+When utilizing this dataset, kindly acknowledge its use by citing the referenced paper and adhering to 
+[the OASIS Data Use Agreement](http://oasis-brains.org/#access).
 
 - **HyperMorph: Amortized Hyperparameter Learning for Image Registration**
   - Authors: A. Hoopes, M. Hoffmann, B. Fischl, J. Guttag, A.V. Dalca
@@ -16,10 +18,6 @@ If you use this dataset please cite the following and refer to the OASIS Data Us
   - Authors: D.S. Marcus, T.H. Wang, J. Parker, J.G. Csernansky, J.C. Morris, R.L. Buckner
   - Journal: Journal of Cognitive Neuroscience, 19, 1498-1507.
   - [https://doi.org/10.1162/jocn.2007.19.9.1498](insert_link_here)
-
-This dataset has been graciously provided by Andrew Hoopes and Adrian V. Dalca for the HyperMorph paper mentioned above. 
-When utilizing this dataset, kindly acknowledge its use by citing the referenced paper and adhering to 
-[the OASIS Data Use Agreement](http://oasis-brains.org/#access).
 
 ### The IXI Dataset
 We utilized the preprocessed version of the IXI dataset, curated by [Junyu Chen](https://github.com/junyuchen245) using Freesurfer for standard MRI preprocessing. 
